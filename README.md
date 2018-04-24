@@ -1,12 +1,12 @@
 # HackB0x v1.0
-HackBox is the combination of awesome tools and techniques.
+مجموعه از ابزار هک برای تست نفوذ
 
-Download HackB0x  `git clone https://github.com/samhaxr/hackbox.git`
+دانلود فایل =  `git clone https://github.com/hackerse/hackbox.git`
 
-**Youtube Tutorial**
+**فیلم اموزشی**
 https://www.youtube.com/watch?v=VasXpDko0VE&feature=youtu.be
 
-**Usage**
+**اجرا**
 $ python hackbox.py
 
 
