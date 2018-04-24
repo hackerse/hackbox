@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
-# !Author: Suleman Malik
+# !Author: Suleman Malik - EDITOR= PANDA
 # !Contact: samhax@protonmail.com
 
 from string import whitespace
